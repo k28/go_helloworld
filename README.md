@@ -1,2 +1,4 @@
-# go_helloworld
-Go hello, world
+# Go Hello, World
+
+Go Hello, World sample
+
